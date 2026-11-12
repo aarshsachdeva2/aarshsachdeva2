@@ -2,7 +2,7 @@
 
 I build statistical and mathematical models to solve problems in **time series, Monte Carlo simulation, Bayesian statistics, and machine learning**.
 
-**MS Applied Mathematics @ Illinois Institute of Technology** · **Data Scientist @ HCL Technologies**
+**Data Engineer @ Tekkers AI MS Applied Mathematics @ Illinois Institute of Technology** · **Data Scientist @ HCL Technologies**
 
 ## What I Work With
 
